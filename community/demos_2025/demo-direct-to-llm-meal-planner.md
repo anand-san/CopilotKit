@@ -10,19 +10,16 @@ There is a mini meal planner agent configured in this repo as a part of this exa
 
 ### 🛠️ **Technologies Being Used**
 
-This project demonstrates a full-stack AI-powered application with the following technologies:
-
 **Frontend:**
 
-- **Framework**: React 19 with Vite
+- **Framework**: React 19 - Vite
 - **UI Components**: CopilotKit React UI (@copilotkit/react-ui)
 - **Styling**: Custom CSS
 
 **Backend Middleware:**
 
-- **Runtime**: Bun.js with Express.js
-- **CopilotKit Runtime**: @copilotkit/runtime for GraphQL endpoint
-- **AG-UI Client**: @ag-ui/client for agent communication
+- **Runtime**: Node/Express.js
+- **Packages**: @copilotkit/runtime, @ag-ui/client
 
 **AI Agent:**
 
@@ -43,7 +40,7 @@ This project demonstrates a full-stack AI-powered application with the following
 
 ### 🎯 **Twitter Post**
 
-Link to your Twitter/X post.
+[Link to your Twitter/X post.](https://x.com/anandsan_/status/1987927360747041011)
 
 ---
 
