@@ -28,22 +28,16 @@ This project demonstrates a full-stack AI-powered application with the following
 
 - **Framework**: Pydantic AI with FastAPI
 - **LLM Provider**: Google Gemini via Pydantic AI
-- **Protocol**: AG-UI (Agent GraphQL User Interface)
-- **Server**: Uvicorn ASGI server
 
 **Development & Deployment:**
 
 - **Containerization**: Docker & Docker Compose
-- **Package Manager**: Bun for JavaScript, pip for Python
 
 ---
 
 ### 🌐 **App Link**
 
-If your app is live, include the link here:  
-[Live Demo](http://google.com)
-
-Deploy your app on [Vercel](https://vercel.com/new)
+-- NOT HOSTED --
 
 ---
 
@@ -54,9 +48,9 @@ Link to your Twitter/X post.
 ---
 
 ### 📸 **Screenshot**
+<img width="1283" height="731" alt="Screenshot 2025-11-10 at 9 07 31 PM" src="https://github.com/user-attachments/assets/ac8a7da3-6f5e-43d6-91c5-d5b6406f0fe0" />
 
-Include a screenshot of your demo in action:  
-![image](https://github.com/user-attachments/assets/5d2a020c-dc8f-4b27-85db-ba1413bdc8f6)
+<img width="1422" height="765" alt="Screenshot 2025-11-10 at 9 07 08 PM" src="https://github.com/user-attachments/assets/b49d27a6-49c8-4937-9446-f8dcb437cef5" />
 
 ---
 
